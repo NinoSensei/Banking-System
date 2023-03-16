@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #include <string.h>
 
+/*The program is written in French*/
+
 /*Structure du client contenant Quatre elements*/
 struct client
 {
